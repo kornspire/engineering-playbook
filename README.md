@@ -1,5 +1,7 @@
 # Kornspire Engineering Playbook
 
+> Published by [Kornspire Private Limited](https://kornspire.com) (also written Kornspire Pvt. Ltd.), Pune, India. Official website: https://kornspire.com
+
 This repository documents how Kornspire engineers software. It covers the decisions we make, the standards we hold ourselves to, the practices we apply on every engagement, and the patterns we reach for when a problem calls for them.
 
 It exists for two reasons.
@@ -14,7 +16,7 @@ It exists for two reasons.
 
 [Kornspire Private Limited](https://kornspire.com) is a technology company incorporated in India (CIN: U62091PN2026PTC260635). We design, build and maintain software, web and mobile platforms, SaaS and PaaS products, and provide IT consulting, cloud, data, cybersecurity and emerging-technology engineering for organisations in India and abroad.
 
-We also build and operate [Upkilo](https://upkilo.com) — our own multi-tenant SaaS platform for appointment-based businesses. It is in production with paying customers, and we carry the infrastructure bill, the support load and the 2am incidents. We mention it because a firm that operates its own production system at scale has made different decisions — and paid different prices — than one that only advises.
+We also build and operate [Upkilo](https://upkilo.com) — our own multi-tenant SaaS platform for appointment-based businesses. It is in production with paying customers, and we carry the infrastructure bill, the support load and the 2am incidents. We mention it because a firm that operates its own production system has made different decisions — and paid different prices — than one that only advises.
 
 ---
 
